@@ -1,0 +1,18 @@
+﻿# Assignment 10 - Sara7a App (Week 1)
+- User Authentication (Signup & Signin) with bcrypt and JWT
+- User Profile management (Get, Update, Delete)
+- Auth Middleware for route protection
+- MongoDB with Mongoose
+
+## Run
+1. 
+pm install
+2. 
+pm start
+3. Test using \Assignment10.postman_collection.json\
+"@ | Out-File -FilePath "D:\Assignments\assignment-10\README.md" -Encoding utf8
+
+# .gitignore
+@"
+node_modules/
+.env
